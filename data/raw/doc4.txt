@@ -1,0 +1,5 @@
+Sistem senjata dalam Counter-Strike dirancang agar setiap jenis memiliki kelebihan dan kekurangan. AK-47 dikenal sebagai senjata paling mematikan di tangan pemain T-side. Kemampuannya menembak mati musuh dengan satu tembakan ke kepala, meskipun memakai helm, menjadikannya senjata favorite. Recoil-nya cukup sulit dipelajari, tetapi pemain yang menguasainya bisa mendominasi pertandingan.
+
+Di sisi CT, M4A4 dan M4A1-S menjadi pilihan utama. M4A4 memiliki magazine lebih besar dan fire rate lebih cepat, sementara M4A1-S menawarkan akurasi tinggi dan suara senyap yang sulit dilacak. AWP tetap menjadi simbol dominasi. Dengan satu tembakan ke badan sudah cukup untuk menghabisi lawan, AWP sering menjadi penentu ronde penting. Namun harganya mahal dan mobilitas rendah membuat pemain harus berhati-hati dalam positioning.
+
+Kelas senjata lain seperti SMG, shotgun, dan pistol memiliki peran tersendiri terutama di ronde ekonomi. MP9 dan MAC-10 populer karena murah namun efektif untuk rush cepat. Shotgun mematikan di area sempit. Sedangkan pistol seperti Deagle atau P250 bisa menghasilkan kill kejutan. Pemahaman detail karakteristik senjata adalah dasar kemenangan dalam CS.
