@@ -1,4 +1,4 @@
-1. Deskripsi Proyek
+Deskripsi Proyek
 
 Proyek ini mengimplementasikan mini search engine berbasis dua model temu kembali informasi:
 
@@ -11,6 +11,8 @@ TF–IDF Standard
 TF–IDF Sublinear (log normalization)
 
 Pipeline sistem mencakup preprocessing → indexing → retrieval → ranking → evaluasi → mode interaktif. Seluruh modul bersifat modular sehingga dapat dijalankan maupun diuji secara terpisah.
+
+
 
 Cara Menjalankan
 A. Persyaratan
@@ -41,6 +43,9 @@ Evaluasi VSM
 Interactive Search Mode
 
 Chat Summarizer Mode
+
+
+
 
  Fitur Utama
 1) Preprocessing
