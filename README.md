@@ -1,4 +1,4 @@
-Deskripsi Proyek
+1. Deskripsi Proyek
 
 Proyek ini mengimplementasikan mini search engine berbasis dua model temu kembali informasi:
 
@@ -14,7 +14,7 @@ Pipeline sistem mencakup preprocessing → indexing → retrieval → ranking �
 
 
 
-Cara Menjalankan
+2. Cara Menjalankan
 A. Persyaratan
 
 Python 3.9 – 3.12
@@ -47,8 +47,8 @@ Chat Summarizer Mode
 
 
 
- Fitur Utama
-1) Preprocessing
+ 3. Fitur Utama
+a) Preprocessing
 
 Lowercasing
 
@@ -59,13 +59,13 @@ Stopword removal
 Stemming sederhana
 → Output tersimpan di data/processed/
 
-2) Boolean Retrieval
+b) Boolean Retrieval
 
 Operator: AND, OR, NOT
 
 Menggunakan inverted index
 
-3) Vector Space Model
+c) Vector Space Model
 
 Pembobotan:
 
@@ -75,7 +75,7 @@ TF–IDF Sublinear
 
 Perankingan: Cosine Similarity
 
-4) Evaluasi IR
+d) Evaluasi IR
 
 Precision
 
@@ -90,7 +90,7 @@ MAP@5
 nDCG@5
 
 
-Interactive Mode
+4. Interactive Mode
 
 Mendukung dua model:
 
@@ -100,6 +100,6 @@ VSM
 
 
 
-Chat Summarizer
+5. Chat Summarizer
 
 Menghasilkan ringkasan otomatis berdasarkan top-3 dokumen VSM.
